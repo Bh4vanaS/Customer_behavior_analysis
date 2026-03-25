@@ -89,7 +89,6 @@ This project demonstrates the ability to:
 * Generate actionable business insights
 * Communicate findings effectively
 
----
 
 
 
@@ -97,10 +96,8 @@ This project demonstrates the ability to:
 
 
 
----
 
-If you want next step, I can:
 
-* 🔎 Review your **entire GitHub profile** (very powerful for placements)
-* 🎯 Or give **top 5 questions interviewer may ask from THIS project** (very useful)
+
+
 
